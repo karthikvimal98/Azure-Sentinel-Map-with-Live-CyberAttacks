@@ -33,9 +33,9 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
    * Establish clear procedures for responding to detected security incidents.
    * Define appropriate actions based on the severity of identified threats.
 
-<h2>Project Implementation in Detail</h2>
+<h3>Project Implementation in Detail</h3>
 
-**1. Creating the VM setup in Azure**
+<h3>1. Creating the VM setup in Azure</h3>
 
 The project commenced with a critical initial step: the deployment of a purpose-built Windows Virtual Machine. This VM was meticulously configured to function as a honeypot, serving as a controlled bait system. By intentionally enabling Remote Desktop Protocol (RDP), the VM was designed to appear vulnerable, thereby enticing potential cyber threats. This strategic setup creates an ideal environment for      observing, analyzing, and documenting malicious activities, forming the foundation of our proactive security monitoring efforts.
 
