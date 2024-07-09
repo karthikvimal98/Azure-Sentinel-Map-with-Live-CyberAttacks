@@ -47,3 +47,9 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
 
 ![image](https://github.com/karthikvimal98/Azure-Sentinel-Map-with-Live-CyberAttacks/assets/78943245/6edff506-49e0-4ef3-ad82-7bf752ec63bf)
 
+## 3. Integration of Geolocation Enrichment Using PowerShell Script
+
+  This PowerShell script is designed to improve the analysis of failed RDP events by gathering and enhancing data with geolocation information. It continuously monitors the Windows Event Viewer, extracts details from failed RDP events,    performs IP geolocation lookups, and updates a custom log file. The script's output, which includes geolocation data, provides valuable insights into the origins of potential security threats. When integrated into Azure Sentinel         through Log Analytics workspace tables, this enriched data aids in more effective threat detection and response.
+
+  ![azure_script_sentinel](https://github.com/karthikvimal98/Azure-Sentinel-Map-with-Live-CyberAttacks/assets/78943245/53226e4a-f634-4aa3-a258-56231b049b73)
+
