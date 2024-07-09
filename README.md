@@ -35,13 +35,13 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
 
 <h2>Project Implementation in Detail</h2>
 
-# 1. Creating the VM setup in Azure**
+## 1. Creating the VM setup in Azure**
 
   The project commenced with a critical initial step: the deployment of a purpose-built Windows Virtual Machine. This VM was meticulously configured to function as a honeypot, serving as a controlled bait system. By intentionally          enabling Remote Desktop Protocol (RDP), the VM was designed to appear vulnerable, thereby enticing potential cyber threats. This strategic setup creates an ideal environment for observing, analyzing, and documenting malicious            activities, forming the foundation of our proactive security monitoring efforts.
 
 ![image](https://github.com/karthikvimal98/Azure-Sentinel-Map-with-Live-CyberAttacks/assets/78943245/c4b1af15-b786-49bf-8780-81915e9081e6)
 
-# 2. Creating a Log Analytics Workspace and Adding the Virtual Machine**
+## 2. Creating a Log Analytics Workspace and Adding the Virtual Machine**
 
   A key part of getting Azure Sentinel ready was making a Log Analytics workspace. This workspace acts like a big storage and analysis center. It collects and keeps all the important information created by different parts of the system,   including the virtual computer set up to attract and track potential attackers. Now that I have completed setting up the Log Analytics workspace and linked it to our trap computer, we're ready to move forward. The next steps involve     improving how we spot threats, creating smart ways to search through our data, and using all the log information we've gathered to get a full picture of our security setup in Azure Sentinel. This will help us better understand and       protect against potential cyber attacks.
 
