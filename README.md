@@ -33,7 +33,7 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
    * Establish clear procedures for responding to detected security incidents.
    * Define appropriate actions based on the severity of identified threats.
 
-<h3>Project Implementation in Detail</h3>
+<h2>Project Implementation in Detail</h2>
 
 **1. Creating the VM setup in Azure**
 
