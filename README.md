@@ -53,3 +53,12 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
 
   ![azure_script_sentinel](https://github.com/karthikvimal98/Azure-Sentinel-Map-with-Live-CyberAttacks/assets/78943245/53226e4a-f634-4aa3-a258-56231b049b73)
 
+## 4. Azure Monitor Agent to send logs
+
+  To create custom logs in the Azure portal using the Log Analytics workspace, start by generating custom logs from the Failed RDP logs files on the VM. Proceed with Azure Monitor to create data collection endpoints, followed by setting   up Data Collection Rules based on the VM platform type, specifically Windows OS. Integrate these with the resource scope of the Log Analytics workspace and ensure all necessary information matches the VM details. After creating the      rules, add a datasource for the newly created data collection rule, then add the custom log table in the datasource. Finally, review and create the data collection rule, and check the data collection endpoint box when it is created      using the custom logs.
+  
+  <img align="left" width="100" height="100" src="![image](https://github.com/user-attachments/assets/ff60f03f-6c0a-478b-a705-92420b86a326)">
+     
+
+## 5. 
+  
