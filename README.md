@@ -64,3 +64,7 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
   This step involved seamlessly integrating Azure Sentinel with the existing Log Analytics workspace, creating a unified environment for security monitoring. Leveraging the same workspace ensures a cohesive approach to data analysis and   incident response. A custom workbook query, named HoneyPot Failed RDP MAP, was introduced to transform and enrich raw data for enhanced analysis within Azure Sentinel. This integration sets the stage for advanced security analysis.      The workbook query extracts critical information, creating a structured dataset for in-depth analysis. Future steps may include rule configuration, visualizations, and response playbooks to fortify the project's security posture in      the Azure Sentinel environment.
   
 ![image](https://github.com/user-attachments/assets/2458b125-1a98-4be7-9c4d-e8da7b25bc87)
+
+## 6. Monitoring Brute Force Attacks and Anomalous Activities
+
+After successfully integrating Azure Sentinel and completing the entire setup, the next crucial phase was actively monitoring the environment for security events. Following a wait of approximately two hours, the system began detecting and logging instances of brute force attacks originating from various locations.
