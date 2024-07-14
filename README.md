@@ -57,7 +57,7 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
 
   To create custom logs in the Azure portal using the Log Analytics workspace, start by generating custom logs from the Failed RDP logs files on the VM. Proceed with Azure Monitor to create data collection endpoints, followed by setting   up Data Collection Rules based on the VM platform type, specifically Windows OS. Integrate these with the resource scope of the Log Analytics workspace and ensure all necessary information matches the VM details. After creating the      rules, add a datasource for the newly created data collection rule, then add the custom log table in the datasource. Finally, review and create the data collection rule, and check the data collection endpoint box when it is created      using the custom logs.
   
-  <img align="left" width="100" height="100" src="![image](https://github.com/user-attachments/assets/2275c7f5-a8f9-444a-9b56-49767bc88557)">
-    <br />
+  ![image](https://github.com/user-attachments/assets/2275c7f5-a8f9-444a-9b56-49767bc88557)"
+
 ## 5. 
   
