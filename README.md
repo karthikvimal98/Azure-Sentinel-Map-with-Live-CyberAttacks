@@ -73,11 +73,17 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
 
   ![image](https://github.com/user-attachments/assets/57484964-1b68-4cb0-a9b3-5c24eb8a7ac3)
 
+  - **Analysis of Failed RDP Events Displaying Attack Metrics**
+
   ![image](https://github.com/user-attachments/assets/a73f1ecb-d707-43ae-a009-9a496805fb4c)
+
+  - **IP Address Lookups for the Attackers' IP**
 
   ![image](https://github.com/user-attachments/assets/4c1ded53-3196-4c0c-81f2-9b89484a5592)
 
   ![image](https://github.com/user-attachments/assets/e28fa7a6-d633-4af9-8401-4bc43ec80811)
+
+  - **Security Incident Event and Alert**
 
   ![image](https://github.com/user-attachments/assets/49568892-3877-461b-abad-8a1a9423cbd5)
 
