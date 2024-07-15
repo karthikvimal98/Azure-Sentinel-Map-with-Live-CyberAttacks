@@ -69,7 +69,7 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
 
   After successfully integrating Azure Sentinel and completing the entire setup, the next crucial phase was actively monitoring the environment for security events. Following a wait of approximately two hours, the system began detecting   and logging instances of brute force attacks originating from various locations.
 
-### Visualization of Attack Maps Prior to Implementing Security/Controls
+  - Visualization of Attack Maps Prior to Implementing Security/Controls
 
   ![image](https://github.com/user-attachments/assets/57484964-1b68-4cb0-a9b3-5c24eb8a7ac3)
 
@@ -78,4 +78,6 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
   ![image](https://github.com/user-attachments/assets/4c1ded53-3196-4c0c-81f2-9b89484a5592)
 
   ![image](https://github.com/user-attachments/assets/e28fa7a6-d633-4af9-8401-4bc43ec80811)
+
+  ![image](https://github.com/user-attachments/assets/49568892-3877-461b-abad-8a1a9423cbd5)
 
