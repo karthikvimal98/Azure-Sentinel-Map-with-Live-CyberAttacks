@@ -87,3 +87,14 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
 
   ![image](https://github.com/user-attachments/assets/49568892-3877-461b-abad-8a1a9423cbd5)
 
+  # Conclusion
+
+  In this project, a small network was established in Microsoft Azure to simulate a honeynet. Various log sources were connected to a Log Analytics workspace. Microsoft Sentinel was utilized to monitor and respond to security threats 
+  by detecting unusual activity and generating incidents based on the collected logs.
+
+  Initially, metrics were recorded in the unsecured environment before any security measures were applied. After implementing security controls, metrics were recorded again to assess their impact. The results showed a significant       
+  reduction in the number of security events and incidents, demonstrating the effectiveness of the security controls in protecting the network.
+
+  However, it is important to note that if the network resources were heavily used by regular users during the 24-hour period following the implementation of security controls, there might have been an increase in security events and 
+  alerts. Normal user activities can sometimes trigger false positives or be misinterpreted as malicious behavior.
+
