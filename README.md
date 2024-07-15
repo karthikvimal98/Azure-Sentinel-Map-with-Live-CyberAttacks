@@ -98,5 +98,5 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
   reduction in the number of security events and incidents, demonstrating the effectiveness of the security controls in protecting the network.
 
   However, it is important to note that if the network resources were heavily used by regular users during the 24-hour period following the implementation of security controls, there might have been an increase in security events and 
-  alerts. Normal user activities can sometimes trigger false positives or be misinterpreted as malicious behavior.
+  alerts. Normal user activities can sometimes trigger false positives or be misinterpreted as malicious behavior. Finally, this Azure security project was completed based on the latest version of Azure updates. Feel free to reach out    regarding this topic!
 
