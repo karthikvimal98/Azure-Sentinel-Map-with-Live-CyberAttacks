@@ -77,10 +77,10 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
 
   ![image](https://github.com/user-attachments/assets/a73f1ecb-d707-43ae-a009-9a496805fb4c)
 
-  - **IP Address Lookups for the Attackers' IP**
-
   ![image](https://github.com/user-attachments/assets/4c1ded53-3196-4c0c-81f2-9b89484a5592)
 
+  - **IP Address Lookups for the Attackers' IP**
+    
   ![image](https://github.com/user-attachments/assets/e28fa7a6-d633-4af9-8401-4bc43ec80811)
 
   - **Security Incident Event and Alert**
