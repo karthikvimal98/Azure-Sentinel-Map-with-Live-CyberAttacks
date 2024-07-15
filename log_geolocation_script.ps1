@@ -1,3 +1,4 @@
+# API Key automatically generated from website
 $API_KEY      = "6abbfd698d464819923a927d18f04fbc"
 $LOGFILE_NAME = "failed_rdp.log"
 $LOGFILE_PATH = "C:\ProgramData\$($LOGFILE_NAME)"
