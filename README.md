@@ -61,6 +61,8 @@ This project encompasses setting up Azure Sentinel, a Security Information and E
   
   ![image](https://github.com/user-attachments/assets/2275c7f5-a8f9-444a-9b56-49767bc88557)"
 
+  ![Security12](https://github.com/user-attachments/assets/c5aeb21f-cb17-43ee-8696-be6f96d3c781)
+
 ## 5. Azure Sentinel Integration and Workbook Query
 
   This step involved seamlessly integrating Azure Sentinel with the existing Log Analytics workspace, creating a unified environment for security monitoring. Leveraging the same workspace ensures a cohesive approach to data analysis and   incident response. A custom workbook query, named HoneyPot Failed RDP MAP, was introduced to transform and enrich raw data for enhanced analysis within Azure Sentinel. This integration sets the stage for advanced security analysis.      The workbook query extracts critical information, creating a structured dataset for in-depth analysis. Future steps may include rule configuration, visualizations, and response playbooks to fortify the project's security posture in      the Azure Sentinel environment.
